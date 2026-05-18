@@ -102,5 +102,5 @@ AI와 데이터를 기반으로 실제 운영 문제를 해결하고,
 
 # 🔗 Contact
 
-- GitHub : https://github.com/본인아이디
-- Email : 본인이메일
+- GitHub : https://github.com/kimdaeho1998
+- Email : kimdaeho1998@naver.com
